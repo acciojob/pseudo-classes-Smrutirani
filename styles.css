@@ -1,9 +1,10 @@
 /*  your css code here. If applicable */
 :root{
-	background:rgb(135, 206, 235);
+	background-color:rgb(135, 206, 235);
 }
 p:first-child{
-	color:black;
+	background-color:black;
+	color:white;
 }
 p:nth-child(2){
 	color:standard;
